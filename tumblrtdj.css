@@ -1,0 +1,47 @@
+/* https://tigredejadeec.tumblr.com/  */
+
+#main_menu a{
+    font-size: 0.75rem;
+    letter-spacing: 0.5px;
+}
+
+/*home
+/*#main_menu li:first-of-type {*/
+/*    display: none;*/
+/*}*/
+
+
+/*askme
+/*#main_menu :nth-child(2) {*/
+/*    display: none;*/
+/*}*/
+
+
+.pdate a:nth-of-type(even){
+    display: none;
+}
+
+.pinfo{
+    display: none;
+}
+
+.pdate a:nth-of-type(odd){
+    font-size: 0.7rem;
+}
+
+/*.headlines h2{*/
+/*    font-size: 1rem;*/
+/*    display: none;*/
+/*}*/
+
+.post_title h2 span{
+    font-size: 1.5rem;
+}
+
+.copyright {
+    display:none;
+}
+
+#nnspc {
+    display: none;
+}
